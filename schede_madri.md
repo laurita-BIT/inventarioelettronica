@@ -1,0 +1,2 @@
+ASUS ROG Strix
+MSI MAG B550
